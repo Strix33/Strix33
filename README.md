@@ -3,26 +3,26 @@ Full-Stack Developer & Software Engineer from India,
 
 🚀 Tech Stack:
 
-Frontend — React, TypeScript, HTML, CSS
+Frontend — **React, TypeScript, HTML, CSS**
 
-Backend — Node.js, Express
+Backend — **Node.js, Express**
 
-Database — MongoDB, PostgreSQL
+Database — **MongoDB, PostgreSQL**
 
-Languages — C++, Python, JavaScript
+Languages — **C++, Python, JavaScript**
 
 🔭 Current Projects
 
-###-Deepfake Detection
+**-Deepfake Detection**
 
-###-NFT Minter
+**-NFT Minter**
 
 🌱 Currently Learning
 Model Optimization & Fine-Tuning — improving deep learning model performance and efficiency
 
 🏆 Achievements
-🥇 ###1st Prize at Praxis Mindscape Hackathon
-⭐ ###3★ CodeChef Programmer — Peak Rating 1633
+🥇 **1st Prize at Praxis Mindscape Hackathon**
+⭐ **3★ CodeChef Programmer — Peak Rating 1633**
 
 
 🌐 Connect With Me
