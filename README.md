@@ -13,17 +13,17 @@ Languages — C++, Python, JavaScript
 
 🔭 Current Projects
 
-Deepfake Detection
+###-Deepfake Detection
 
-NFT Minter
+###-NFT Minter
 
 🌱 Currently Learning
 Model Optimization & Fine-Tuning — improving deep learning model performance and efficiency
 
 🏆 Achievements
-🥇 1st Prize at Praxis Mindscape Hackathon
-⭐ 3★ CodeChef Programmer — Peak Rating 1633
-💻 500+ DSA problems solved across coding platforms
+🥇 ###1st Prize at Praxis Mindscape Hackathon
+⭐ ###3★ CodeChef Programmer — Peak Rating 1633
+
 
 🌐 Connect With Me
 <p>
