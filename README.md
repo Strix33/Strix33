@@ -3,7 +3,7 @@ Full-Stack Developer & Software Engineer from India,
 
 🚀 Tech Stack:
 
-Frontend — **React, TypeScript, HTML, CSS**
+Frontend — <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />**, TypeScript, HTML, CSS**
 
 Backend — **Node.js, Express**
 
