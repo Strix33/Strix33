@@ -1,19 +1,26 @@
-DCopyHi, I'm Rudrapratap 👋
+Hi, I'm Rudrapratap 👋
 Full-Stack Developer & Software Engineer from India, studying at PCCOE Pune.
 I build full-stack web apps, train ML models, and solve DSA problems.
 
 🚀 Tech Stack
-CategoryTechnologiesFrontendReact, TypeScript, HTML, CSSBackendNode.js, ExpressDatabaseMongoDB, PostgreSQLLanguagesC++, Python, JavaScript
+Frontend — React, TypeScript, HTML, CSS
+Backend — Node.js, Express
+Database — MongoDB, PostgreSQL
+Languages — C++, Python, JavaScript
 
 🔭 Current Projects
-Deepfake Detection — ML-based media forensics system using deep learning
-NFT Minter — Web3 platform for minting and managing NFT transactions
+Deepfake Detection
+ML-based media forensics system using deep learning
+NFT Minter
+Web3 platform for minting and managing NFT transactions
 
 🌱 Currently Learning
 Model Optimization & Fine-Tuning — improving deep learning model performance and efficiency
 
 🏆 Achievements
-🥇1st Prize at Praxis Mindscape Hackathon⭐3★ CodeChef Programmer — Peak Rating 1633💻500+ DSA problems solved across coding platforms
+🥇 1st Prize at Praxis Mindscape Hackathon
+⭐ 3★ CodeChef Programmer — Peak Rating 1633
+💻 500+ DSA problems solved across coding platforms
 
 🌐 Connect With Me
 <p>
