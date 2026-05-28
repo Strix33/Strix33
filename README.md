@@ -1,16 +1,26 @@
 ## Hi there 👋
+```md id="4bhbjl"
+# Hi, I'm Rudrapratap 👋
 
-<!--
-**Strix33/Strix33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer & Software Engineer from India.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- MERN Stack
+- TypeScript
+- C++ & Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Projects
+- Deepfake Detection
+- NFT Minter
+
+## 🌱 Currently Learning
+- Model Optimization & Fine-Tuning
+
+## 🏆 Achievements
+- 3★ CodeChef Programmer
+- 1st Prize at Praxis Mindscape Hackathon
+
+## 🌐 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/rudrapratapghatge/
+```
+
