@@ -27,7 +27,7 @@ Model Optimization & Fine-Tuning — improving deep learning model performance a
 
 🌐 Connect With Me
 <p>
-  <a href="https://www.linkedin.com/in/rudrapratapghatge/">
+  <a href="https://www.linkedin.com/in/rudrapratapghatge">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
@@ -35,11 +35,8 @@ Model Optimization & Fine-Tuning — improving deep learning model performance a
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://github.com/Strix33">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   &nbsp;
-  <a href="https://www.codechef.com/users/strix33">
+  <a href="https://www.codechef.com/users/strix68">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </p>
