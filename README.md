@@ -1,14 +1,20 @@
 Hi, I'm Rudrapratap 👋
 Full-Stack Developer & Software Engineer from India,
 
-🚀 Tech Stack
+🚀 Tech Stack:
+
 Frontend — React, TypeScript, HTML, CSS
+
 Backend — Node.js, Express
+
 Database — MongoDB, PostgreSQL
+
 Languages — C++, Python, JavaScript
 
 🔭 Current Projects
+
 Deepfake Detection
+
 NFT Minter
 
 🌱 Currently Learning
