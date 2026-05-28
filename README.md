@@ -1,13 +1,19 @@
-<h1 align="center">Hey, I'm Rudrapratap 👋</h1>
-<p align="center">Full-Stack Developer • PCCOE Pune • Open to Opportunities</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/rudrapratapghatge/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ghatgerudra81@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Strix33&style=flat-square&color=0a66c2"/>
-</p>
-About me
+Hi, I'm Rudrapratap 👋
+Full-Stack Developer & Software Engineer from India, currently studying at PCCOE Pune. I build full-stack web apps, explore ML models, and solve DSA problems for fun.
+📫 ghatgerudra81@gmail.com  |  💼 LinkedIn  |  🐙 GitHub
 
-🔭 Building: Deepfake Detection system & NFT Minter
-🌱 Learning: Model optimization & fine-tuning
-🏆 3★ CodeChef (1633) · 1st Prize @ Praxis Mindscape Hackathon
-💬 500+ DSA problems solved
+🚀 Tech Stack
+MERN Stack  ·  TypeScript  ·  C++  ·  Python
+
+🔭 What I'm Building
+
+Deepfake Detection — ML-based media forensics tool
+NFT Minter — Web3 minting & transaction platform
+
+🌱 Currently Learning
+Model Optimization & Fine-Tuning for deep learning models
+🏆 Achievements
+
+🥇 1st Prize @ Praxis Mindscape Hackathon
+⭐ 3★ CodeChef Programmer — Peak Rating 1633
+💻 500+ DSA problems solved across coding platforms
