@@ -1,35 +1,19 @@
-Hi, I'm Rudrapratap 👋
-Full-Stack Developer & Software Engineer from India, studying at PCCOE Pune. I build full-stack web apps, train ML models, and solve DSA problems.
+DCopyHi, I'm Rudrapratap 👋
+Full-Stack Developer & Software Engineer from India, studying at PCCOE Pune.
+I build full-stack web apps, train ML models, and solve DSA problems.
 
 🚀 Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+CategoryTechnologiesFrontendReact, TypeScript, HTML, CSSBackendNode.js, ExpressDatabaseMongoDB, PostgreSQLLanguagesC++, Python, JavaScript
 
 🔭 Current Projects
-<p>
-  <img src="https://img.shields.io/badge/Deepfake%20Detection-FF4B4B?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/NFT%20Minter-9B59B6?style=for-the-badge&logoColor=white" />
-</p>
+Deepfake Detection — ML-based media forensics system using deep learning
+NFT Minter — Web3 platform for minting and managing NFT transactions
 
 🌱 Currently Learning
-<p>
-  <img src="https://img.shields.io/badge/Model%20Optimization-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fine--Tuning%20LLMs-0A66C2?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+Model Optimization & Fine-Tuning — improving deep learning model performance and efficiency
 
 🏆 Achievements
-<p>
-  <img src="https://img.shields.io/badge/🥇%201st%20Prize-Praxis%20Mindscape%20Hackathon-FFD700?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/⭐%203★%20CodeChef-Rating%201633-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  <img src="https://img.shields.io/badge/💻%20500+-DSA%20Problems%20Solved-2ECC71?style=for-the-badge" />
-</p>
+🥇1st Prize at Praxis Mindscape Hackathon⭐3★ CodeChef Programmer — Peak Rating 1633💻500+ DSA problems solved across coding platforms
 
 🌐 Connect With Me
 <p>
